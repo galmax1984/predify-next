@@ -61,7 +61,7 @@ export function Sidebar() {
               onClick={() => setIsResultsOpen(!isResultsOpen)}
               className="w-full px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 flex items-center justify-between transition-colors"
             >
-              <span>Results</span>
+              <span>Results 123</span>
               {isResultsOpen ? (
                 <ChevronDown className="w-4 h-4" />
               ) : (
